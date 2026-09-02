@@ -116,20 +116,23 @@ analytics:
 # Site Author
 author:
   name             : "Kato Rutatina Pascraties"
-  avatar           : # e.g. "/assets/images/bio-photo.jpg" — add a headshot to /assets/images/
-  bio              : "Petroleum/energy engineering graduate researcher at China University of Petroleum (Beijing), focused on **geomechanics**, **EOR**, and **reservoir simulation**."
-  location         : "Beijing, China / Ghana"
-  email            : "cm786532@gmail.com"
+  avatar           : "/assets/images/kato-headshot.jpg"
+  bio              : "Petroleum Engineering Graduate Student | CSEG Member"
+  location         :
+  email            : "2024290049@student.cup.edu.cn"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      url: "mailto:cm786532@gmail.com"
+      url: "mailto:2024290049@student.cup.edu.cn"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kato-rutatina-pascraties"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Rutatina95"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/"
 
 # Site Footer
 footer:
@@ -142,7 +145,7 @@ footer:
       url: "https://github.com/Rutatina95"
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      url: "mailto:cm786532@gmail.com"
+      url: "mailto:2024290049@student.cup.edu.cn"
   since: "2024"
 
 
